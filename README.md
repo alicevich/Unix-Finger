@@ -7,7 +7,7 @@
   
 # About #
 
-This client/server program simulates UNIX's finger command. 
+This client/server program simulates the UNIX finger command. 
 
 
 
